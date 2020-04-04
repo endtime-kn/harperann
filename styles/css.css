@@ -1,0 +1,26 @@
+body {
+  background-image: url(https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/21370939_1534351786587650_3957368426277690671_n.jpg?_nc_cat=110&_nc_sid=7aed08&_nc_ohc=SCiO4_p760QAX9rt0Ce&_nc_ht=scontent-dfw5-1.xx&oh=7fa685e1f555e7c117428be9d4fb104a&oe=5EAE82C1);
+  border-style: ridge;
+  border-color: #9F1919;
+  border: 15px ridge #9F1919;
+  font-size: 30px;
+  color: black;
+  margin: 20px;
+  background-size: contain;
+  background-repeat: repeat-y;
+
+}
+strong {
+  font-size: 50px;
+}
+em {
+  color: #FF0000;
+  font-size: 50px;
+  border: 20px solid #000DFF;
+  margin: 30px 30px 10px 30px;
+
+}
+p {
+  font-size: 70px;
+
+}
